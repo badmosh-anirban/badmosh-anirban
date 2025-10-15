@@ -1,6 +1,5 @@
 name: Generate snake animation
 
-# hi
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
